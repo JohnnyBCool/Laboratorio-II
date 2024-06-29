@@ -1,0 +1,4 @@
+book1 : {"title":"El amor en los tiempos del cólera","author":"Gabriel García Márquez"}
+book2 : {"title":"Por quien doblan las campanas","author":"Ernest Hemingway"}
+book3 : {"title":"El extranjero","author":"Albert Camus"}
+book6 : {"title":"El arte de la guerra","author":"Lao Tze"}
